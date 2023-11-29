@@ -41,6 +41,11 @@ public class Post {
 		return "Post [id=" + id + ", description=" + description + "]";
 	}
 
+	public void setUser(User user2) {
+		// TODO Auto-generated method stub
+		
+	}
+
 	
 
 }
